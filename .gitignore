@@ -1,0 +1,14 @@
+__pycache__/
+.idea/
+.pytest_cache/
+data_pretreat/
+data-task0/
+data-task0_1/
+data-task0_2/
+temp/
+voice/
+wav2thx/
+*.npy
+*.out
+*.png
+*.pdf
